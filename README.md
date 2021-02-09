@@ -1,10 +1,14 @@
-# metrain-rep
-Excel Manual Entry Training and Cheat Sheet
+# Excel Manual Entry Training and Cheat Sheet
+## Navigation 
 
-First Header | Second Header
+### These hotkeys will allow you to navigate between cells and sheets in your workbook without taking your hands off the keyboard 
+
+Keyboard Combination | Movement
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+--> | Move one cell to the Right
+<-- | Move one cell to the left
+↑   | Move one cell up
+↓   | Move one cell down
 
 # This is an <h1> tag
 ## This is an <h2> tag
