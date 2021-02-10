@@ -6,7 +6,7 @@
 Simple keyboard movements
 
 Keyboard Combination | Key | Movement
------------- | -------------
+------------ | ------------- | -------------
 **->** | Right Arrow | Move one cell to the Right
 **<-** | Left Arrow | Move one cell to the left
 **↑**   | Up Arrow | Move one cell up
