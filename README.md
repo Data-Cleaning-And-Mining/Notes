@@ -5,11 +5,13 @@
 
 Keyboard Combination | Movement
 ------------ | -------------
---> | Move one cell to the Right
-<-- | Move one cell to the left
+-> | Move one cell to the Right
+<- | Move one cell to the left
 ↑   | Move one cell up
 ↓   | Move one cell down
 
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+  
+  
