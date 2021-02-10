@@ -5,10 +5,10 @@
 
 Keyboard Combination | Movement
 ------------ | -------------
-**->** | Move one cell to the Right
-**<-** | Move one cell to the left
-**↑**   | Move one cell up
-**↓**   | Move one cell down
+**->** | Right Arrow | Move one cell to the Right
+**<-** | Left Arrow | Move one cell to the left
+**↑**   | Up Arrow | Move one cell up
+**↓**   | Down Arrow | Move one cell down
 
 # This is an <h1> tag
 ## This is an <h2> tag
