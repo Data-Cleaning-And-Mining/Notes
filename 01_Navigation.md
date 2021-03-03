@@ -1,7 +1,8 @@
-# Excel Manual Entry Training and Cheat Sheet
-## Navigation 
+# Navigation 
 
-### These hotkeys will allow you to navigate between cells and sheets in your workbook without taking your hands off the keyboard 
+## Simple Movement
+
+These hotkeys will allow you to navigate between cells and sheets in your workbook without taking your hands off the keyboard 
 
 Simple keyboard movements
 
@@ -13,6 +14,13 @@ Keyboard Combination | Key | Movement
 **↓**   | Down Arrow | Move one cell down
 
 ![arrowed](Assets/Arrows.png)
+
+## Contiguous Movement
+
+## Rapidly Selecting Contiguous Cells
+
+
+
 
 # This is an <h1> tag
 ## This is an <h2> tag
