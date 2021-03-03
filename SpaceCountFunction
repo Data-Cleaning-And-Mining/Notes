@@ -1,6 +1,0 @@
-Function SPACECOUNT(Name)
-  myLen = Len(Name)
-  myRemoved = WorksheetFunction.Substitute(Name, " ", "")
-  myLenRemoved = Len(myRemoved)
-  SPACECOUNT = myLen - myLenRemoved
-End Function
