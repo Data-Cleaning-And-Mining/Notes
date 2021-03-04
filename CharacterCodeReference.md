@@ -41,9 +41,9 @@ A String of Text | =CODE(MID(A1,2,1)) | 32
  
  Before Cleaning - To identify problematic white space we can also use the =LEN() function to determine the number of characters in a string of text within a cell. For example, we would expect the name "JOHN DOE" to contain 8 characters "J", "O", "H", "N", "Space", "D", "O", and "E". If =LEN() returns something greater than 8 characters in length, then we know we have some cleanup to perform on that cell.
  
- A | B | C | D | E | F
- -----|-----|-----|-----|----|-----
- Name | Length Code | Code for revealing leading whitespace | Result of Leading Whitespace | Code for revealing trailing whitespace | Result for trailing whitespace
+ A | B | C | D | E | F | G
+ -----|-----|-----|-----|----|-----|-----
+ Name | Length Code | Len Result | Code for revealing leading whitespace | Result of Leading Whitespace | Code for revealing trailing whitespace | Result for trailing whitespace
  &nbsp;JOHN DOE   |=LEN(A1) | 12|=CODE(LEFT(A1,1)) | 160 |=CODE(MID(A1,10,1)) | 32
  &nbsp;JOHN JR DOE     |=LEN(A2) | 17|=CODE(LEFT(A2,1)) | 160 |=CODE(MID(A1,13,1)) | 32
  &nbsp;JANE DOE  |=LEN(A3) | 11|=CODE(LEFT(A3,1)) | 160 |=CODE(MID(A1,10,1)) | 32
