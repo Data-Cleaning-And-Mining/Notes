@@ -54,7 +54,7 @@ A String of Text | =CODE(MID(A1,2,1)) | 32
   A | B | C | D | E | F | G
  -----|-----|-----|-----|-----|-----|-----
  Name | Clean Formula | Trim Formula | Proper Formula | Substitute Formula | Nested Formula | Result 
- &nbsp;|This removes any nonprinting spaces, but does not catch our Character 160 non-breaking space | This removes the character 32 breaking spaces | This will properly case our name |This deletes all non-breaking spaces | 
+ &nbsp;|Removes nonprinting spaces | Removes Char 32 breaking spaces | Applies proper casing| Deletes Char 160 non-breaking spaces | 
  &nbsp;JOHN DOE   |=CLEAN(A1)  | =TRIM(B1)  | =PROPER(C1)  | =SUBSTITUTE(D1,CHAR(160),"")  | =CLEAN(TRIM(PROPER(SUBSTITUTE(A1,CHAR(160),""))))|John Doe  
  &nbsp;JOHN JR DOE     |=CLEAN(A2)| =TRIM(B2)| =PROPER(C2)| =SUBSTITUTE(D2,CHAR(160),"")| =CLEAN(TRIM(PROPER(SUBSTITUTE(A2,CHAR(160),""))))|John Jr Doe
  &nbsp;JANE DOE  |=CLEAN(A3)| =TRIM(B3)| =PROPER(C3)| =SUBSTITUTE(D3,CHAR(160),"")| =CLEAN(TRIM(PROPER(SUBSTITUTE(A3,CHAR(160),""))))| John Doe
