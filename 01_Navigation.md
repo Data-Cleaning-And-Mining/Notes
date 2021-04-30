@@ -17,6 +17,15 @@ Keyboard Combination | Key | Movement
 
 ## Contiguous Movement
 
+Contiguous movement is the movement of your curser between contiguous groups of cells, such as to the end of a row or end of a column. It is useful when you need to quickly jump to the end of a column or row of a large spreadsheet without having to scroll all the way through several thousand rows or mouse over several dozen columns.  To select the end of a contiguous row or column of data simple use Shift + Arrow keys
+
+Keyboard Combination | Key | Movement
+------------ | ------------- | -------------
+**->** | Shift + Right Arrow | Move to the right most contiguous cell in the row
+**<-** | Shift + Left Arrow | Move to the left most contiguous cell in the row
+**↑**   | Shift + Up Arrow | Move to the top most contiguous cell in a column
+**↓**   | Shift + Down Arrow | Move to the bottom most contiguous cell in a column
+
 ## Rapidly Selecting Contiguous Cells
 
 
