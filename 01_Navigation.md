@@ -21,15 +21,28 @@ Contiguous movement is the movement of your curser between contiguous groups of 
 
 Keyboard Combination | Key | Movement
 ------------ | ------------- | -------------
+**->** | Ctrl + Right Arrow | Move to the right most contiguous cell in the row
+**<-** | Ctrl + Left Arrow | Move to the left most contiguous cell in the row
+**↑**   | Ctrl + Up Arrow | Move to the top most contiguous cell in a column
+**↓**   | Ctrl + Down Arrow | Move to the bottom most contiguous cell in a column
+
+![morearrowed](Assets/ArrowsCtrl.png)
+
+## Selecting Multiple Cells, Columns, or Rows
+
+The combination of Shift + Arrow Key will allow you select multiple cells, columns, or rows. 
+
+## Rapidly Selecting Contiguous Cells
+It is often helpful to rapidly select a contiguous row or column of cells in order to modify, delete, or move the data in that row or column. To quickly highlight and select a contiguous row or column you would hold down Shift + Ctrl and the appropriate arrow key
+
+Keyboard Combination | Key | Movement
+------------ | ------------- | -------------
 **->** | Shift + Right Arrow | Move to the right most contiguous cell in the row
 **<-** | Shift + Left Arrow | Move to the left most contiguous cell in the row
 **↑**   | Shift + Up Arrow | Move to the top most contiguous cell in a column
 **↓**   | Shift + Down Arrow | Move to the bottom most contiguous cell in a column
 
-## Rapidly Selecting Contiguous Cells
-
-
-
+![mostarrowed](Assets/ArrowsShift.png)
 
 # This is an <h1> tag
 ## This is an <h2> tag
