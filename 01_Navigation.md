@@ -71,7 +71,7 @@ To rapidly select an entire column in your spreadsheet use the hotkey combinatio
 
 To add a row of cells use your mouse or hotkey combination to select a row of cells and use the hotkey combination of Ctrl and the "+" key. Your new row of cells will be added above your current selection.
 
-![insertrow](Assets/ShiftSpace.png)
+![insertrow](Assets/CtrlPlus.png)
 
 
 ## Resizing Columns
