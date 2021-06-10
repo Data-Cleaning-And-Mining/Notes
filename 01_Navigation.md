@@ -67,13 +67,33 @@ To rapidly select an entire column in your spreadsheet use the hotkey combinatio
 
 ![ctrlfreak](Assets/ShiftSpace.png)
 
+## Adding and Deleting Rows and Columns
+
 ### Adding a Row
 
 To add a row of cells use your mouse or hotkey combination to select a row of cells and use the hotkey combination of Ctrl and the "+" key. Your new row of cells will be added above your current selection.
 
 ![insertrow](Assets/CtrlPlus.png)
 
+### Adding a Column
+
+Ctrl + "+" key with a column selected
+
+### Deleting a Row
+
+Ctrl + "-" key with a row selected
+
+### Deleting a Column
+
+Ctrl + "-" key with a column selected
 
 ## Resizing Columns
 
-### Resizing by Selecting
+### Resizing Using the Mouse
+
+### Resizing Using Hotkeys
+
+Alt + h + o + i in sequence
+
+
+
