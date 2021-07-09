@@ -10,8 +10,8 @@ A | B | C
 -----|-----|-----
 Text | Formula | Result
 A String of Text | =CODE(LEFT(A1,1)) | 65
-A String of Text | =CODE(MID(A1,2,1)) | 32
-&nbsp;Leading non-breaking space | =CODE(LEFT(A1,1)) | 160
+A String of Text | =CODE(MID(A2,2,1)) | 32
+&nbsp;Leading non-breaking space | =CODE(LEFT(A3,1)) | 160
  
  **=CHAR(_Number_)**
  
