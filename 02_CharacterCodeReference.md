@@ -23,9 +23,9 @@ A String of Text | =CODE(MID(A1,2,1)) | 32
  Capital A | =CHAR(65) | A
  Breaking space | =CHAR(32) |   
  Breaking Space | =CHAR(160) |  
- A String of Text | =SUBSTITUTE(A1,CHAR(65),"") |  String of Text
- A String of Text | =SUBSTITUTE(A1,CHAR(32),"") | AStringofText
- &nbsp;Leading non-breaking space | =SUBSTITUTE(A1,CHAR(160),"") |Leading non-breaking space
+ A String of Text | =SUBSTITUTE(A4,CHAR(65),"") |  String of Text
+ A String of Text | =SUBSTITUTE(A5,CHAR(32),"") | AStringofText
+ &nbsp;Leading non-breaking space | =SUBSTITUTE(A6,CHAR(160),"") |Leading non-breaking space
  
  ## Use Case
  
@@ -45,8 +45,8 @@ A String of Text | =CODE(MID(A1,2,1)) | 32
  -----|-----|-----|-----|----|-----|-----
  Name | Length Code | Len Result | Code for revealing leading whitespace | Result of Leading Whitespace | Code for revealing trailing whitespace | Result for trailing whitespace
  &nbsp;JOHN DOE   |=LEN(A1) | 12|=CODE(LEFT(A1,1)) | 160 |=CODE(MID(A1,10,1)) | 32
- &nbsp;JOHN JR DOE     |=LEN(A2) | 17|=CODE(LEFT(A2,1)) | 160 |=CODE(MID(A1,13,1)) | 32
- &nbsp;JANE DOE  |=LEN(A3) | 11|=CODE(LEFT(A3,1)) | 160 |=CODE(MID(A1,10,1)) | 32
+ &nbsp;JOHN JR DOE     |=LEN(A2) | 17|=CODE(LEFT(A2,1)) | 160 |=CODE(MID(A2,13,1)) | 32
+ &nbsp;JANE DOE  |=LEN(A3) | 11|=CODE(LEFT(A3,1)) | 160 |=CODE(MID(A3,10,1)) | 32
  
  
  Cleaning - To clean we will use both =TRIM() to handle the trailing breaking spaces and =SUBSTITUTE() in combination with =CHAR(160) to replace the non-breaking spaces with an empty parenthesis "". We will also wrap the function in =CLEAN() to handle the existence of any nonprinting characters that may exists but not have been caught in our initial review of the data. Finally, we will include =PROPER() to make sure the names are converted to proper casing. We can do this in steps, or we can nest all the formulas together for efficiency.
