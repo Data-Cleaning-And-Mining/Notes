@@ -29,7 +29,7 @@ A String of Text | =CODE(MID(A2,2,1)) | 32
  
  ## Use Case
  
- A common use case for =CODE() and =CHAR() involve troubleshooting and cleaning data pasted from a PDF file or other converted file. These files often contain encoding issues and non-breaking spaces that require manipulating the names and other information with a variety of =CLEAN(), =TRIM(), and =SUBSTITUTE() to strip the special characters away and make the data compatible with the other data in the spreadsheet. =CODE() and =CHAR() come in handy in identifying and specifiying which special characters are causing issues with the data.
+ A common use case for =CODE() and =CHAR() is troubleshooting and cleaning data pasted from a PDF file or other converted file. These files often contain encoding issues and non-breaking spaces that require manipulating the names and other information with a variety of =CLEAN(), =TRIM(), and =SUBSTITUTE() to strip the special characters away and make the data compatible with the other data in the spreadsheet. =CODE() and =CHAR() come in handy in identifying and specifiying which special characters are causing issues with the data.
  
  Original document - Notice this document contains both leading white space and trailing white space in front of and behind the names. Our task is to properly identify what kind of white space this is so that we can use the proper formula or combination of formulas to remove that white space. 
  A | B 
