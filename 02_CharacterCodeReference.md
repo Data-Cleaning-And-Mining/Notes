@@ -15,7 +15,7 @@ A String of Text | =CODE(MID(A2,2,1)) | 32
  
  **=CHAR(_Number_)**
  
- Will insert the proper character using the correct ASCII code provided. Useful in combination with =SUBSTITUTE() for removing special characters that cannot otherwise be specified within paranthesis, such as carriage returns and non-breaking spaces.
+ Will insert the proper character using the correct ASCII code provided. Useful in combination with =SUBSTITUTE() for removing special characters that cannot otherwise be specified within parentheses, such as carriage returns and non-breaking spaces.
  
  A | B | C
  -----|-----|-----
