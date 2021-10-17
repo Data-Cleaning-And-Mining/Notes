@@ -182,10 +182,26 @@ Resizing columns and rows
 To quickly hide and unhide rows, columns, and cells use a combination of Ctrl + 9, Ctrl + Shift + (, Ctrl + 0, and Ctrl + Shift + ). This hotkey shortcut and the Select All shortcut of Ctrl + Shift + A are especially useful when used together to reveal all potentially hidden rows and columns in your worksheet.
 
 PC Keyboards
-![reveal](link.png)
+
+![hidecolumns](Assets/PCKeyboard/HideColumns.png)
+
+![revealcolumns](Assets/PCKeyboard/UnHideColumns.png)
+
+![hiderows](Assets/PCKeyboard/HideRows.png)
+
+![revealrowsrows](Assets/PCKeyboard/UnHideRows.png)
 
 Mac keyboards
-![macreveal](linkg.png)
 
+![machidecolumns](Assets/MacKeyboard/MacHideColumns.png)
+
+![macrevealcolumns](Assets/MacKeyboard/MacUnHideColumns.png)
+
+![machiderows](Assets/MacKeyboard/MacHideRows.png)
+
+![macrevealrowsrows](Assets/MacKeyboard/MacUnhideRows.png)
+
+Hiding and revealing columns and rows
+[INSERT VIDEO HERE]
 
 
