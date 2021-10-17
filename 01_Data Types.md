@@ -1,15 +1,16 @@
 
-  Data is the stuff you put into an individual cell in Excel. Data can take many different forms, but in Excel it only comes in five different types. That means that regardless of what you type, paste, or otherwise enter into a cell in Excel, the data you put in that cell can be categorized as being one of five types. These datatypes are:
+  Data is the stuff you put into an individual cell in Excel. Data can take many different forms, but in Excel it only comes in five different types. That means that regardless of what you type, paste, or otherwise enter into a cell in Excel, the data you put in that cell can be classified as belonging to one of five distinct data types. These data types are:
+  
 * A Number
 * Text
 * A Boolean value (TRUE/FALSE)
 * The Error Data Type
 
-  Understanding data types can seem complicated at first, but is much less daunting than at first blush. This section is a quick crash course and a link to a short blog post that goes into a little more depth. Being able to understand and identify what kind of a datatype you are working with in any given cell is crucial to understanding how your actions with cutting and pasting data between spreadsheets or manipulating things with formulas works. If you take anything from learning manual entry it should be a working knowledge of the concept of datatypes. Since we are not accountants or scientists, we almost exclusively deal with Text data and with Dates in our spreadsheets and the source documents we clean up. So it is important to understand how Excel (and LibreOffice) handles those two datatypes in particular. This is probably the most complicated thing to learn coming into Excel, and I promise the rest of everything you do is much more straightforward and practical, but is really dependent on knowing these basics.
+  This section is a quick crash course and a link to a short blog post that goes into a little more depth. Being able to understand and identify what kind of a datatype you are working with in any given cell is crucial to understanding how your actions with cutting and pasting data between spreadsheets or manipulating things with formulas works. If you take anything from learning how to clean and process raw data it should be a working knowledge of the concept of datatypes.
 
-* Excel has five datatypes - Number, Date, Text, Logical or Boolean value, and the Error data type
+* Excel has five data types - Number, Date, Text, Logical or Boolean value, and the Error data type
 
-* A Number datatype is just what it says, a number that has been entered into a cell
+* A Number data type is just what it says, a number that has been entered into a cell
   * All numbers are represented by a Double-Precision Floating Point value (a really big decimal number with lots of digits after the decimal place).
   * Numbers may contain up to 15 significant digits (exclude zeros on either side of the number).
   * Numbers may be as large as 1.79768 X 10^308 or as small as 2.2250 X 10^-308.
