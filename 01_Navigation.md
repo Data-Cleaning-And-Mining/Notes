@@ -4,9 +4,10 @@
 
 ### Simple Movement
 
-These hotkeys will allow you to navigate between cells and sheets in your workbook without taking your hands off the keyboard 
+These hotkeys will allow you to navigate between cells and sheets in your workbook efficiently and with less effort than is required when using the mouse to interact with Excel's graphical user interface. To most casual users of Excel these shortcuts and hotkey combinations will seem like a trivial detail. However, to those of us who use Excel for extended periods of time while working on tasks such as data manipulation and data mining becoming comfortable with these shortcuts and key combinations are crucial to using Excel effeciently and with less frustration and mistakes. The following outline covers a small portion of the most commonly used hotkey combinations with small examples of their use in action. It starts from the simplest movement (navigating between cells), and builds on combining these hotkeys in ways that can accomplish more complex tasks - all without the use of a mouse.
 
-Simple keyboard movements
+
+### Simple keyboard movements
 
 Keyboard Combination | Key | Movement
 ------------ | ------------- | -------------
@@ -17,9 +18,9 @@ Keyboard Combination | Key | Movement
 
 ![arrowed](Assets/Arrows.png)
 
-### Contiguous Movement
+### Contiguous Movement Between Cells
 
-Contiguous movement is the movement of your curser between contiguous groups of cells, such as to the end of a row or end of a column. It is useful when you need to quickly jump to the end of a column or row of a large spreadsheet without having to scroll all the way through several thousand rows or mouse over several dozen columns.  To select the end of a contiguous row or column of data simple use Shift + Arrow keys
+Contiguous movement is the movement of your curser between contiguous groups of cells, such as to the end of a row or end of a column. It is useful when you need to quickly jump to the end of a column or row of a large worksheet without having to scroll all the way through several thousand rows or mouse over several dozen columns.  To select the end of a contiguous row or column of data simple use Shift + Arrow keys
 
 Keyboard Combination | Key | Movement
 ------------ | ------------- | -------------
@@ -57,15 +58,18 @@ Keyboard Combination | Key | Movement
 
 ### Rapidly Selecting An Entire Row
 
-To rapidly select an entire row in your spreadsheet use the hotkey combination of Shift + Spacebar
+To rapidly select an entire row in your worksheet use the hotkey combination of Shift + Spacebar
 
 ![spacecadet](Assets/CtrlSpace.png)
 
 ### Rapidly Selecting An Entire Column or Range
 
-To rapidly select an entire column in your spreadsheet use the hotkey combination of Ctrl + Spacebar. Be careful that this hotkey selects an entire range of cells rather than just the individual column. Most of the time the "range" selected will only involve an individual column of cells. However, in certain cases this hotkey will select multiple contiguous columns within a given range.
+To rapidly select an entire column in your worksheet use the hotkey combination of Ctrl + Spacebar. Be careful that this hotkey selects an entire range of cells rather than just the individual column. Most of the time the "range" selected will only involve an individual column of cells. However, in certain cases this hotkey will select multiple contiguous columns within a given range.
 
 ![ctrlfreak](Assets/ShiftSpace.png)
+
+### Rapidly Selecting the Entire Worksheet
+To rapidly select all of the cells in the current worksheet use Ctrl + Shift + A
 
 ## Adding and Deleting Rows and Columns
 
@@ -90,10 +94,14 @@ Ctrl + "-" key with a column selected
 ## Resizing Columns
 
 ### Resizing Using the Mouse
+Double click on the border between columns or rows
 
 ### Resizing Using Hotkeys
 
 Alt + h + o + i in sequence
+
+## Removing Filters and Hiding and Unhiding Rows, Columns, and Cells
+
 
 
 
