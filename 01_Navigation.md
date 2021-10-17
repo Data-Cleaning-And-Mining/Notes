@@ -1,5 +1,24 @@
 # Navigation
 
+Cheat Sheet
+
+Function | PC Keyboard | Mac Keyboard
+-------- | ----------- | ------------
+Move cells | Arrow keys | Arrow keys
+Contiguous movement between cells | Ctrl + Arrow | Cmd + Arrow
+Selecting cells | Shift + Arrow | Shift + Arrow
+Selecting contiguous cells | Ctrl + Shift + Arrow | Cmd + Shift + Arrow
+Selecting row | Shift + Spacebar | Shift + Spacebar
+Selecting column | Ctrl + Spacebar | Cmd + Spacebar
+Selecting entire worksheet | Ctrl + Shift + A | Cmd + Shift + A
+Adding a row, column, or range of cells | Ctrl + "+" | Cmd + "+"
+Deleting a row, column, or range of cells | Ctrl + "-" | Cmd + "-"
+Resizing a selected row, column, or range | Alt + h + o + i (pressed in sequence) | Option + h + o + i (pressed in sequence)
+Hiding a selected row or rows of cells | Ctrl + 9 | Cmd + 9
+Revealing hidden rows | Ctrl + Shift + ( | Cmd + Shift + (
+Hiding a selected column or column of cells | Ctrl + 0 | Cmd + 0
+Revealing hidden columns | Ctrl + Shift +) | Cmd + Shift + )
+
 ## Movement and Selection
 
 ### Simple Movement
