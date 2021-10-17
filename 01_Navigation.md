@@ -81,9 +81,6 @@ Mac Keyboards
 
 ![macmostarrowed](Assets/MacKeyboard/MacShiftArrows.png)
 
-Selecting multiple cells, columns, or rows
-[INSERT VIDEO HERE]
-
 ### Rapidly Selecting Contiguous Cells
 It is often helpful to rapidly select a contiguous row or column of cells in order to modify, delete, or move the data in that row or column. To quickly highlight and select a contiguous row or column you would hold down Shift + Ctrl and the appropriate arrow key
 
@@ -102,8 +99,9 @@ Mac Keyboards
 
 ![macallthearrowed](Assets/MacKeyboard/MacShiftCtrlArrows.png)
 
-Rapidly selecting contiguous cells
-[INSERT VIDEO HERE]
+#### Watch the video to see how these hotkeys work
+
+[![Watch the video](https://i.ytimg.com/vi/ON8Rwkqu0g8/maxresdefault.jpg)](https://youtu.be/ON8Rwkqu0g8)
 
 ### Rapidly Selecting An Entire Row
 
