@@ -1,4 +1,4 @@
-# Navigation
+# Getting Started With Working Efficiently - Using Hotkey Combinations
 
 Cheat Sheet
 
@@ -10,7 +10,7 @@ Selecting cells | Shift + Arrow | Shift + Arrow
 Selecting contiguous cells | Ctrl + Shift + Arrow | Cmd + Shift + Arrow
 Selecting row | Shift + Spacebar | Shift + Spacebar
 Selecting column | Ctrl + Spacebar | Cmd + Spacebar
-Selecting entire worksheet | Ctrl + Shift + A | Cmd + Shift + A
+Selecting entire range of data (Pressing a second time selects entire worksheet) | Ctrl + A | Cmd + Shift + A
 Adding a row, column, or range of cells | Ctrl + "+" | Cmd + "+"
 Deleting a row, column, or range of cells | Ctrl + "-" | Cmd + "-"
 Resizing a selected row, column, or range | Alt + h + o + i (pressed in sequence) | Option + h + o + i (pressed in sequence)
@@ -19,9 +19,7 @@ Revealing hidden rows | Ctrl + Shift + ( | Cmd + Shift + (
 Hiding a selected column or column of cells | Ctrl + 0 | Cmd + 0
 Revealing hidden columns | Ctrl + Shift +) | Cmd + Shift + )
 
-## Movement and Selection
-
-### Simple Movement
+## Simple Movement and Selection
 
 These hotkeys will allow you to navigate between cells and sheets in your workbook efficiently and with less effort than is required when using the mouse to interact with Excel's graphical user interface. To most casual users of Excel these shortcuts and hotkey combinations will seem like a trivial detail. However, to those of us who use Excel for extended periods of time while working on tasks such as data manipulation and data mining becoming comfortable with these shortcuts and key combinations are crucial to using Excel effeciently and with less frustration and mistakes. The following outline covers a small portion of the most commonly used hotkey combinations with small examples of their use in action. It starts from the simplest movement (navigating between cells), and builds on combining these hotkeys in ways that can accomplish more complex tasks - all without the use of a mouse.
 
@@ -103,9 +101,13 @@ Mac Keyboards
 
 [![Watch the video](https://i.ytimg.com/vi/ON8Rwkqu0g8/maxresdefault.jpg)](https://youtu.be/ON8Rwkqu0g8)
 
+## Selecting, Hiding, Unhiding, Removing, and Adding Columns and Rows
+
+Sometimes it may be more efficient to manipulate your data by selecting, removing, or adding entire rows or columns of information without regard to where in that row the data begins or ends. This feature is most often used when quickly hiding or unhiding rows or columns, and when adding or deleting rows and columns.
+
 ### Rapidly Selecting An Entire Row
 
-Sometimes it may be more efficient to simply select and entire row or column on your worksheet containing data, without regard to where in that row the data begins or ends. To rapidly select an entire row in your worksheet use the hotkey combination of Shift + Spacebar. This is equivalent to selecting the row index by clicking on the desired row number on the far left of your worksheet.
+To rapidly select and entire row in Excel use Shift + Spacebar
 
 PC Keyboards
 
@@ -125,10 +127,10 @@ PC Keyboards
 
 Mac Keyboards
 
-![macctrlfreak](Assets/MacKeyboard/MacCtrlPlus.png)
+![macctrlfreak](Assets/MacKeyboard/MacCtrlSpacebar.png)
 
 ### Rapidly Selecting the Entire Worksheet
-To rapidly select all of the cells in the current worksheet use Ctrl + Shift + A
+To rapidly select all of the contiguous cells in your current range use Ctrl + A. To select the entire worksheet including all data stored in non-contiguous cells of your current range, press Ctrl + A a second time.
 
 PC Keyboards
 
@@ -138,8 +140,33 @@ Mac Keyboards
 
 ![macselectall](Assets/MacKeyboard/MacSelectAll.png)
 
-Rapidly selecting rows, columns, and worksheets
-[INSERT VIDEO HERE]
+### Removing Filters and Hiding and Unhiding Rows, Columns, and Cells
+
+To quickly hide and unhide rows, columns, and cells use a combination of Ctrl + 9, Ctrl + Shift + (, Ctrl + 0, and Ctrl + Shift + ). This hotkey shortcut and the Select All shortcut of Ctrl + Shift + A are especially useful when used together to reveal all potentially hidden rows and columns in your worksheet.
+
+PC Keyboards
+
+![hidecolumns](Assets/PCKeyboard/HideColumns.png)
+
+![revealcolumns](Assets/PCKeyboard/UnHideColumns.png)
+
+![hiderows](Assets/PCKeyboard/HideRows.png)
+
+![revealrowsrows](Assets/PCKeyboard/UnHideRows.png)
+
+Mac keyboards
+
+![machidecolumns](Assets/MacKeyboard/MacHideColumns.png)
+
+![macrevealcolumns](Assets/MacKeyboard/MacUnHideColumns.png)
+
+![machiderows](Assets/MacKeyboard/MacHideRows.png)
+
+![macrevealrowsrows](Assets/MacKeyboard/MacUnhideRows.png)
+
+#### Watch the video below to see how the row, column, and worksheet selection hotkeys can be used to quickly reveal or hide rows and columns in your workbooks
+
+[![Watch the video](https://i.ytimg.com/vi/lD9ynKOiNLA/maxresdefault.jpg)](https://youtu.be/lD9ynKOiNLA)
 
 ## Adding and Deleting Rows and Columns
 
@@ -193,31 +220,6 @@ Mac keyboards
 Resizing columns and rows
 [INSERT VIDEO HERE]
 
-## Removing Filters and Hiding and Unhiding Rows, Columns, and Cells
 
-To quickly hide and unhide rows, columns, and cells use a combination of Ctrl + 9, Ctrl + Shift + (, Ctrl + 0, and Ctrl + Shift + ). This hotkey shortcut and the Select All shortcut of Ctrl + Shift + A are especially useful when used together to reveal all potentially hidden rows and columns in your worksheet.
-
-PC Keyboards
-
-![hidecolumns](Assets/PCKeyboard/HideColumns.png)
-
-![revealcolumns](Assets/PCKeyboard/UnHideColumns.png)
-
-![hiderows](Assets/PCKeyboard/HideRows.png)
-
-![revealrowsrows](Assets/PCKeyboard/UnHideRows.png)
-
-Mac keyboards
-
-![machidecolumns](Assets/MacKeyboard/MacHideColumns.png)
-
-![macrevealcolumns](Assets/MacKeyboard/MacUnHideColumns.png)
-
-![machiderows](Assets/MacKeyboard/MacHideRows.png)
-
-![macrevealrowsrows](Assets/MacKeyboard/MacUnhideRows.png)
-
-Hiding and revealing columns and rows
-[INSERT VIDEO HERE]
 
 
