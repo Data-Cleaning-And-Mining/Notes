@@ -36,9 +36,11 @@ Keyboard Combination | Key | Movement
 **↓**   | Down Arrow | Move one cell down
 
 PC Keyboards
+
 ![arrowed](Assets/PCKeyboard/Arrows.png)
 
 Mac Keyboards
+
 ![macarrowed](Assets/MacKeyboard/MacArrows.png)
 
 ### Contiguous Movement Between Cells
