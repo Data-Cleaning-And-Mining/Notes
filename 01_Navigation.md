@@ -55,7 +55,9 @@ Keyboard Combination | Key | Movement
 **↓**   | Ctrl + Down Arrow | Move to the bottom most contiguous cell in a column
 
 PC Keyboards
+
 ![morearrowed](Assets/PCKeyboard/ArrowsCtrl.png)
+
 
 Mac Keyboards
 ![macmorearrowed](Assets/MacKeyboard/MacACtrlrrows.png)
@@ -72,9 +74,11 @@ Keyboard Combination | Key | Movement
 **↓**   | Shift + Down Arrow | Move to the bottom most contiguous cell in a column
 
 PC Keyboards
+
 ![mostarrowed](Assets/PCKeyboard/ArrowsShift.png)
 
 Mac Keyboards
+
 ![macmostarrowed](Assets/MacKeyboard/MacShiftArrows.png)
 
 Selecting multiple cells, columns, or rows
@@ -91,9 +95,11 @@ Keyboard Combination | Key | Movement
 **↓**   | Shift + Ctrl + Down Arrow | Move to the bottom most contiguous cell in a column
 
 PC Keyboards
+
 ![allthearrowed](Assets/PCKeyboard/ArrowsShiftCtrl.png)
 
 Mac Keyboards
+
 ![macallthearrowed](Assets/MacKeyboard/MacShiftCtrlArrows.png)
 
 Rapidly selecting contiguous cells
@@ -104,9 +110,11 @@ Rapidly selecting contiguous cells
 Sometimes it may be more efficient to simply select and entire row or column on your worksheet containing data, without regard to where in that row the data begins or ends. To rapidly select an entire row in your worksheet use the hotkey combination of Shift + Spacebar. This is equivalent to selecting the row index by clicking on the desired row number on the far left of your worksheet.
 
 PC Keyboards
+
 ![spacecadet](Assets/PCKeyboard/ShiftSpace.png)
 
 Mac Keyboards
+
 ![macspacecadet](Assets/MacKeyboard/MacShiftSpacebar.png)
 
 ### Rapidly Selecting An Entire Column or Range
@@ -114,18 +122,22 @@ Mac Keyboards
 To rapidly select an entire column in your worksheet use the hotkey combination of Ctrl + Spacebar. Be careful that this hotkey selects an entire range of cells rather than just the individual column. Most of the time the "range" selected will only involve an individual column of cells. However, in certain cases this hotkey will select multiple contiguous columns within a given range. This is equivalent to selecting a column by clicking on the desired column letter at the top of your worksheet.
 
 PC Keyboards
+
 ![ctrlfreak](Assets/PCKeyboard/CtrlSpace.png)
 
 Mac Keyboards
+
 ![macctrlfreak](Assets/MacKeyboard/MacCtrlPlus.png)
 
 ### Rapidly Selecting the Entire Worksheet
 To rapidly select all of the cells in the current worksheet use Ctrl + Shift + A
 
 PC Keyboards
+
 ![selectall](Assets/PCKeyboard/SelectAll.png)
 
 Mac Keyboards
+
 ![macselectall](Assets/MacKeyboard/MacSelectAll.png)
 
 Rapidly selecting rows, columns, and worksheets
@@ -138,9 +150,11 @@ Rapidly selecting rows, columns, and worksheets
 To add a row or column of cells use your mouse or hotkey combination to select a row, column, or range of cells and use the hotkey combination of Ctrl and the "+" key. Your new row of cells will be added above or to the left of your selection.
 
 PC Keyboards
+
 ![insertrow](Assets/PCKeyboard/CtrlPlus.png)
 
 Mac keyboards
+
 ![macinsertrow](Assets/MacKeyboard/MacCtrlPlus.png)
 
 Rapidly adding a row or column
@@ -151,9 +165,11 @@ Rapidly adding a row or column
 To quickly delete an entire row from your worksheet use Ctrl and the "-" key. This combination may also be used when you have only selecte a range of cells, in which case you will be asked by Excel how to handle the remaining data after the removal of your selected range.
 
 PC Keyboards
+
 ![deleterow](Assets/PCKeyboard/CtrlMinus.png)
 
 Mac keyboards
+
 ![macdeleterow](Assets/MacKeyboard/MacCtrlMinus.png)
 
 Rapidly deleting a row or column
@@ -169,9 +185,11 @@ Double click on the border between columns or rows
 Alt + h + o + i in sequence
 
 PC Keyboards
+
 ![resizing](Assets/PCKeyboard/ResizingKeys.png)
 
 Mac keyboards
+
 ![macdeleterow](Assets/MacKeyboard/MacResize.png)
 
 Resizing columns and rows
