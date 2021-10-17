@@ -1,12 +1,12 @@
 # Why It Matters
 
-Learning how to efficiently utilize Excel to clean and maniplate data can make you an invaluable employee. Wasted time and energy spent trying to fight Excel can leave you and your employer unhappy with your performance and your client unsatisfied with shoddily put together work product and a high bill. This guide is intended as a collection of notes and examples on how you can use Excel better and faster in order to improve your job performance.
+Learning how to efficiently utilize Excel to clean and maniplate data can make you an invaluable employee. Wasted time and energy spent trying to fight Excel can leave you and your employer unhappy with your performance and your client unsatisfied with a shoddily put together work product and a high bill. This guide is intended as a collection of notes and examples on how you can use Excel better and faster in order to improve your job performance.
 
 Before you jump into the nuts and bolts of using Excel, take a minute to ensure that you have set yourself up for success. Using Excel effectively begins with making sure you have your workstation set up correctly and understand the basic terminology of the program you are about to learn.
 
 ## Setting Up Your Workstation
 
-The key to using Excel effectively begins with the hardware and peripherals used at your workstation. Excel is a Microsoft product, and as such has been designed to run on a Personal Computer. Excel for macintosh based operating systems does exist, but does not function the same as Excel for PC. Odds are, if you are reading this you are most likely using a PC. You may be using Excel on a PC directly, or you may be using a Macintosh computer as the means to remotely connect to a physical or virtual PC machine. For those of you not using a PC, an attempt has been made to give you the equivalent keyboard commands and steps to use on your own computer.
+The key to using Excel effectively begins with the hardware and peripherals used at your workstation. Excel is a Microsoft product, and as such has been designed to run on a Personal Computer. Excel for Mac still works, but does not function the same as Excel for PC. Odds are, if you are reading this you are most likely using a PC. You may be using Excel on a PC directly, or you may be using a Macintosh computer as the means to remotely connect to a physical or virtual PC machine. If so, you may have to translate instructions intended for a PC audience to your own operating system and situation. For those of you not using a PC, an attempt has been made to give you the equivalent keyboard commands and steps to use on your own computer.
 
 ### Maximizing your screen real estate
 
@@ -34,4 +34,4 @@ Understanding basic Excel terminology is important in communicating with your te
 
 #### Data Cleaning Example Video
 
-https://youtu.be/boCH8gtdXqc
+[![Watch the video](https://i.ytimg.com/vi/boCH8gtdXqc/hqdefault.jpg)](https://youtu.be/boCH8gtdXqc) 
