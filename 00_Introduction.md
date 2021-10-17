@@ -31,3 +31,7 @@ Understanding basic Excel terminology is important in communicating with your te
 * CSV file - A file extension that stands for Comma Separated Value. A CSV file is a non-proprietary file type which is used to store information organized in a tabular or spreadsheet format. It uses a comma to separate values that belong in different fields (columns), and lines to separate values that appear on different rows. A CSV file will open in Microsoft Excel as a normal spreadsheet. The comma is a delimiter in a CSV file.
 * TXT file - A file extension that stores information in a text format. A TXT file may or may not be organized in a tabular or spreadsheet format. If the information is organized in a tabular or spreadsheet format, then it can be imported or pasted into Excel and the data will appear in the individual cells as it was intended. A TXT file can have any delimiter that the original author of the TXT file wishes to use. Common delimiters used in TXT files are a comma (similar to a CSV file), a semicolon, a tab symbol, or a non-breaking space.
 * VBA - An acronym that stands for Microsoft's Visual Basic for Applications. VBA is an event driven programming language that is used across various Office programs to extend office programs by automating routine tasks, creating macros, and allowing for the creation of custom features and functions within Excel, Word, and various other Microsoft Office applications.
+
+#### Data Cleaning Example Video
+
+https://youtu.be/boCH8gtdXqc
