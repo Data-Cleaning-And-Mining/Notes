@@ -16,7 +16,8 @@ Keyboard Combination | Key | Movement
 **↑**   | Up Arrow | Move one cell up
 **↓**   | Down Arrow | Move one cell down
 
-![arrowed](Assets/Arrows.png)
+![arrowed](Assets/PCKeyboard/Arrows.png)
+![macarrowed](Assets/MacKeyboard/MacArrows.png)
 
 ### Contiguous Movement Between Cells
 
@@ -29,7 +30,8 @@ Keyboard Combination | Key | Movement
 **↑**   | Ctrl + Up Arrow | Move to the top most contiguous cell in a column
 **↓**   | Ctrl + Down Arrow | Move to the bottom most contiguous cell in a column
 
-![morearrowed](Assets/ArrowsCtrl.png)
+![morearrowed](Assets/PCKeyboard/ArrowsCtrl.png)
+![macmorearrowed](Assets/MacKeyboard/MacACtrlrrows.png)
 
 ### Selecting Multiple Cells, Columns, or Rows
 
@@ -42,7 +44,8 @@ Keyboard Combination | Key | Movement
 **↑**   | Shift + Up Arrow | Move to the top most contiguous cell in a column
 **↓**   | Shift + Down Arrow | Move to the bottom most contiguous cell in a column
 
-![mostarrowed](Assets/ArrowsShift.png)
+![mostarrowed](Assets/PCKeyboard/ArrowsShift.png)
+![macmostarrowed](Assets/MacKeyboard/MacShiftArrows.png)
 
 ### Rapidly Selecting Contiguous Cells
 It is often helpful to rapidly select a contiguous row or column of cells in order to modify, delete, or move the data in that row or column. To quickly highlight and select a contiguous row or column you would hold down Shift + Ctrl and the appropriate arrow key
@@ -54,19 +57,22 @@ Keyboard Combination | Key | Movement
 **↑**   | Shift + Ctrl + Up Arrow | Move to the top most contiguous cell in a column
 **↓**   | Shift + Ctrl + Down Arrow | Move to the bottom most contiguous cell in a column
 
-![allthearrowed](Assets/ArrowsShiftCtrl.png)
+![allthearrowed](Assets/PCKeyboard/ArrowsShiftCtrl.png)
+![macallthearrowed](Assets/MacKeyboard/MacShiftCtrlArrows.png)
 
 ### Rapidly Selecting An Entire Row
 
 To rapidly select an entire row in your worksheet use the hotkey combination of Shift + Spacebar
 
-![spacecadet](Assets/CtrlSpace.png)
+![spacecadet](Assets/PCKeyboard/ShiftSpace.png)
+![macspacecadet](Assets/PCKeyboard/ShiftSpace.png)
 
 ### Rapidly Selecting An Entire Column or Range
 
 To rapidly select an entire column in your worksheet use the hotkey combination of Ctrl + Spacebar. Be careful that this hotkey selects an entire range of cells rather than just the individual column. Most of the time the "range" selected will only involve an individual column of cells. However, in certain cases this hotkey will select multiple contiguous columns within a given range.
 
-![ctrlfreak](Assets/ShiftSpace.png)
+![ctrlfreak](Assets/PCKeyboard/CtrlSpace.png)
+![macctrlfreak](Assets/MacKeyboard/MacCtrlPlus.png)
 
 ### Rapidly Selecting the Entire Worksheet
 To rapidly select all of the cells in the current worksheet use Ctrl + Shift + A
