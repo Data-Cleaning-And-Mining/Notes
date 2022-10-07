@@ -1,4 +1,4 @@
-## Basic Formulas for Understanding Text
+## Basic Formulas for Text Manipulation in Excel
  
  
 The following list contains some of the most commonly used Excel Text manipulation formulas along with links to the Microsoft Excel documentation on how these formulas work.
