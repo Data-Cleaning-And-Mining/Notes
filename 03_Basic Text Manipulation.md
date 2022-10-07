@@ -31,10 +31,6 @@ https://support.microsoft.com/en-us/office/search-searchb-functions-9ab04538-0e5
 
 https://support.microsoft.com/en-us/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628
  
-=TRIM()
-
-https://support.microsoft.com/en-us/office/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9
- 
 =LOWER()
 
 https://support.microsoft.com/en-us/office/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4
@@ -46,7 +42,7 @@ https://support.microsoft.com/en-us/office/upper-function-c11f29b3-d1a3-4537-8df
 =PROPER()
 
 https://support.microsoft.com/en-us/office/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94
- 
+
 =TRIM()
 
 https://support.microsoft.com/en-us/office/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9
